@@ -88,7 +88,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Cat vs Dog"),
+        title: const Text("Cat Breed Finder"),
         actions: [
           IconButton(
               icon: const Icon(Icons.photo),
