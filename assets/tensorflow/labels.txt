@@ -1,2 +1,5 @@
-0 cat
-1 dog
+0 bengal
+1 burmilla
+2 bombay
+3 tiger
+4 Himalayan
